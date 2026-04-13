@@ -1,4 +1,6 @@
-#prompt engineer prompt
+# prompt engineer prompt
+
+
 create a  uniy 2d platformer prototype like mario with physics 2d , simple , minimum
 old input system with arrow keys for movement and jump with space
 create plan and agentic prompt to create complete game without user interaction from setting scene, creating a small level, createing player , adding movement animation /code, music and particles and required scripts , physics 2d components and properties ,   parallex for bg
