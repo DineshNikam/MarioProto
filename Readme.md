@@ -1,1 +1,1 @@
-This is Test project for checking AI capabilities and our capability to use AI and if I am capable to use Claude code.  
+This is Test project for checking AI capabilities and our capability to use AI 
